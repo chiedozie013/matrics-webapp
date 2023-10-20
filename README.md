@@ -42,6 +42,17 @@ This is a mobile web application to check a list of metrics (numeric values) tha
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## 🚀 Live Demo <a name="live-demo"></a>
+
+- [https://chiedozie013.github.io/](## 🚀 Live Demo <a name="live-demo"></a>
+
+- [https://chiedozie013.github.io/](https://matrics-webapp-microverse.netlify.app/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 # 💻 Getting Started <a name="getting-started"></a>
 
 To get a local copy up and running, follow these steps.
