@@ -44,12 +44,13 @@ This is a mobile web application to check a list of metrics (numeric values) tha
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [https://chiedozie013.github.io/](## 🚀 Live Demo <a name="live-demo"></a>
-
 - [https://chiedozie013.github.io/](https://matrics-webapp-microverse.netlify.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-)
+
+## Walkthrough Using Zoom
+
+- [Walktrough Video](https://drive.google.com/file/d/1TMgFTA9C-VGZEd3ObbQO59rxBJ2QGD6s/view?usp=sharing)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
