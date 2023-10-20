@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/matrics-webapp/static/css/main.1ebdf851.css",
+    "main.js": "/matrics-webapp/static/js/main.560d31d5.js",
+    "index.html": "/matrics-webapp/index.html",
+    "main.1ebdf851.css.map": "/matrics-webapp/static/css/main.1ebdf851.css.map",
+    "main.560d31d5.js.map": "/matrics-webapp/static/js/main.560d31d5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ebdf851.css",
+    "static/js/main.560d31d5.js"
+  ]
+}
