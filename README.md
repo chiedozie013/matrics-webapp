@@ -50,7 +50,7 @@ This is a mobile web application to check a list of metrics (numeric values) tha
 
 ## Walkthrough Using Zoom
 
-- [Walktrough Video](https://drive.google.com/file/d/1TMgFTA9C-VGZEd3ObbQO59rxBJ2QGD6s/view?usp=sharing)
+- [Walktrough Video](https://drive.google.com/file/d/11RfkB-vkUb2_93HBMaxkMp-Kl37AaYg4/view?usp=sharing)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
